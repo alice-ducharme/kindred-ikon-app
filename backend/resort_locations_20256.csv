@@ -1,0 +1,78 @@
+Resort,ResortRegion,StateOrProvince,Latitude,Longitude,SkiableAcres,VerticalDrop,AnnualSnowfall,SummitElevation,fullPassAccessLevel,terrain.beginner,terrain.intermediate,terrain.expert
+Alta,Rockies,Utah,40.58827,-111.63799,2614,2538,545,11068,limited,15,30,55
+Alyeska,West Coast,Alaska,60.9705,-149.0982,1400,3200,409,3939,limited,11,52,37
+Arapahoe Basin,Rockies,Colorado,39.64167,-105.87167,1428,2530,350,13050,full,7,20,73
+Aspen Highlands,Rockies,Colorado,39.18226,-106.85768,1010,3638,300,12392,limited,0,23,77
+Aspen Mountain,Rockies,Colorado,39.18626,-106.82042,673,3267,300,11212,limited,0,48,52
+Banff Sunshine,Rockies,Alberta,51.078,-115.78549,3358,3510,360,8957,limited,18,26,56
+Big Bear Mountain Resort,West Coast,California,34.22766,-116.86092,678,1665,100,8805,full,20,52,28
+Big Sky,Rockies,Montana,45.28573,-111.4034,5850,4350,400,11166,limited,15,25,60
+Blue Mountain,Midwest,Ontario,44.50335,-80.31311,364,720,120,1480,full,26,38,36
+Blue Mountain Resort,Mid-Atlantic,Pennsylvania,40.82222,-75.51333,164,1084,33,1540,limited,43,14,43
+Boyne Mountain,Midwest,Michigan,45.16415,-84.93147,415,500,140,1120,limited,48,28,24
+Brighton,Rockies,Utah,40.5982,-111.58358,1050,1745,500,10500,limited,21,39,40
+Buck Hill,Midwest,Minnesota,44.72484,-93.28371,45,262,60,1211,limited,43,43,14
+Buttermilk,Rockies,Colorado,39.20579,-106.86268,435,2030,200,9900,limited,35,39,26
+Camelback Resort,Mid-Atlantic,Pennsylvania,41.05139,-75.35528,166,800,50,2133,limited,39,26,35
+Cervino Ski Paradise,Europe,,45.93413,7.63066,0,6086,223,11207,limited,28,65,7
+Chamonix Mont-Blanc,Europe,,45.923,6.87045,29405,7326,264,10744,limited,15,36,49
+Copper Mountain,Rockies,Colorado,39.5,-106.14821,2538,2601,305,12313,full,24,26,50
+Coronet Peak,Australia / New Zealand,,-44.92717,168.73408,691,1516,78,5410,limited,25,45,30
+Courmayeur Mont Blanc,Europe,,45.7909,6.96253,0,4980,115,8914,limited,33,52,15
+Cranmore,Northeast,New Hampshire,44.05638,-71.11078,170,1200,80,2000,limited,30,45,25
+Crystal Mountain,West Coast,Washington,46.93533,-121.47704,2600,3100,486,7012,full,11,54,35
+Cypress Mountain,West Coast,British Columbia,49.39602,-123.20681,600,2008,426,4751,limited,35,19,46
+Deer Valley,Rockies,Utah,40.63738,-111.48049,3700,3040,300,9570,limited,27,31,42
+Dolomiti Superski,Europe,,46.53333,12.13333,29652,5954,300,9810,limited,0,0,0
+Eldora Mountain,Rockies,Colorado,39.93774,-105.58634,680,1240,300,10600,full,20,50,30
+Grandvalira,Europe,,42.57835,1.64598,10000,3051,216,9259,limited,17,39,44
+Ischgl,Europe,,47.01012,10.28852,1273,4904,244,9422,limited,21,58,21
+Jackson Hole,Rockies,Wyoming,43.58764,-110.82772,2500,4139,459,10450,limited,10,40,50
+Jiminy Peak,Northeast,Massachusetts,42.55603,-73.29105,167,1150,71,2380,limited,51,29,20
+June Mountain,West Coast,California,37.76792,-119.09282,1500,2590,250,10090,full,15,40,45
+Killington,Northeast,Vermont,43.62573,-72.79827,1509,3050,250,4229,limited,28,33,39
+Kitzbühel,Europe,,47.44351,12.38964,5732,3937,300,#N/A,#N/A,#N/A,#N/A,#N/A
+La Thuile - Espace San Bernardo,Europe,,45.71242,6.94892,0,3678,165,8501,limited,31,55,14
+Lake Louise,Rockies,Alberta,51.44192,-116.16436,4200,3251,179,8652,limited,25,45,30
+Le Massif de Charlevoix,Northeast,Quebec,47.27886,-70.60946,406,2526,252,2644,limited,15,30,55
+Loon Mountain,Northeast,New Hampshire,44.05644,-71.63545,370,2100,160,3050,limited,20,60,20
+Lotte Arai Resort,Japan,,36.99095,138.18141,529,3120,620,4200,limited,25,40,35
+Mammoth Mountain,West Coast,California,37.65087,-119.039,3500,3100,400,11059,full,25,40,35
+Monterosa Ski,Europe,,45.85469,7.73321,0,6768,104,10744,limited,16,63,21
+Mt Buller,Australia / New Zealand,,-37.14621,146.44964,741,1411,95,5922,limited,20,45,35
+Mt Hutt,Australia / New Zealand,,-43.49561,171.54003,902,2241,157,6844,limited,25,45,30
+Mt. Bachelor,West Coast,Oregon,44.00287,-121.67916,4318,3365,462,9065,limited,15,35,50
+Niseko United,Japan,,42.86395,140.69468,2889,3438,590,4291,limited,0,0,0
+Norquay,Rockies,Alberta,51.2015,-115.60209,190,1650,118,8038,limited,38,25,37
+Palisades Tahoe,West Coast,California,39.19698,-120.23876,6000,2850,450,9050,full,8,33,59
+Panorama,Rockies,British Columbia,50.46028,-116.23833,2975,4265,204,8038,limited,15,35,50
+Pico,Northeast,Vermont,43.6618,-72.84333,468,1967,250,3967,limited,18,46,36
+Pila,Europe,,45.69021,7.31018,0,3806,0,8832,limited,17,70,13
+RED Mountain,Rockies,British Columbia,49.10224,-117.81961,3850,2919,300,6807,limited,17,34,49
+Revelstoke,Rockies,British Columbia,50.95844,-118.16598,3121,5620,394,7300,limited,7,45,48
+Schweitzer,Rockies,Idaho,48.36798,-116.62274,2900,2440,300,6400,full,20,40,40
+Sierra-at-Tahoe,West Coast,California,38.8002,-120.0804,2000,2212,480,8852,limited,25,50,25
+Snow Valley,West Coast,California,34.22485,-117.03604,240,1041,150,7841,full,14,45,41
+Snowbasin,Rockies,Utah,41.21605,-111.85909,3000,2959,350,9350,limited,20,50,30
+Snowbird,Rockies,Utah,40.5811,-111.65904,2500,3240,500,11000,limited,8,22,70
+Snowmass,Rockies,Colorado,39.20828,-106.95236,3362,4406,300,12510,limited,6,43,51
+Snowshoe,Mid-Atlantic,West Virginia,38.4108,-79.99579,257,1500,180,4848,full,34,36,30
+Solitude,Rockies,Utah,40.61985,-111.59407,1200,2494,500,10488,full,10,40,50
+St. Moritz,Europe,,46.48466,9.83279,86487,4386,369,10030,limited,27,51,22
+Steamboat,Rockies,Colorado,40.45717,-106.80672,3741,3668,336,10568,full,14,42,44
+Stratton,Northeast,Vermont,43.11342,-72.91032,670,2003,180,3875,full,40,35,25
+Sugarbush,Northeast,Vermont,44.13526,-72.89562,581,2600,250,4083,full,23,42,35
+Sugarloaf,Northeast,Maine,45.05418,-70.31069,1240,2820,200,4237,limited,22,32,46
+Sun Peaks Resort,Rockies,British Columbia,50.88458,-119.88622,4270,2894,237,7060,limited,10,58,32
+Sun Valley,Rockies,Idaho,43.67085,-114.37038,2054,3400,220,9150,limited,36,42,22
+Sunday River,Northeast,Maine,44.47342,-70.85906,870,2340,167,3140,limited,30,36,34
+Taos,Rockies,New Mexico,36.59448,-105.44958,1294,3281,300,12481,limited,15,18,67
+The Highlands,Midwest,Michigan,45.47084,-84.93764,435,552,140,1290,limited,36,31,33
+The Remarkables,Australia / New Zealand,,-45.05407,168.81212,220,1171,144,6375,limited,30,40,30
+The Summit at Snoqualmie,West Coast,Washington,47.42044,-121.42329,1994,1025,428,3865,limited,17,37,46
+Thredbo,Australia / New Zealand,,-36.50356,148.30386,1186,2205,83,6683,limited,16,67,17
+Tremblant,Northeast,Quebec,46.21351,-74.58488,630,2116,178,2871,full,20,35,45
+Valle Nevado,South America,,-33.35385,-70.25112,2200,2657,324,12041,limited,10,36,54
+Wild Mountain,Midwest,Minnesota,45.48885,-92.70534,100,300,40,1113,limited,29,29,42
+Winter Park,Rockies,Colorado,39.88254,-105.75742,3081,3060,318,12060,full,8,37,55
+Zermatt,Europe,,46.01481,7.74251,10000,7477,199,12792,limited,11,22,67

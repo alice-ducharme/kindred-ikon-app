@@ -1,0 +1,1 @@
+Search available Kindred properties within a given radius of Ikon resorts.

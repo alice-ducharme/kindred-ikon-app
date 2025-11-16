@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: kindred-ikon-backend
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn backend_api:app"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.0
+      - key: ENVIRONMENT
+        value: production
+      - key: ALLOWED_ORIGINS
+        sync: false  # Set this in Render dashboard to your frontend URL
+      - key: OPEN_ROUTE_SERVICE_KEY
+        sync: false  # Set this in Render dashboard
+      - key: EMAIL
+        sync: false  # Set this in Render dashboard
+      - key: KINDRED_BEARER_TOKEN
+        sync: false  # Optional - set in Render dashboard
+
