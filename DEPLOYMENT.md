@@ -83,7 +83,7 @@ Before deploying, make sure you have:
 
 1. **Click "Add New..." → "Project"**
 
-2. **Import your repository:**
+2. **Import your repository:** 
    - Find and select your `kindred-ikon-app` repository
    - Click "Import"
 
